@@ -1,3 +1,3 @@
 # SQL_HW
 
-![Image description](Desktop\sql.PNG)
+![shot](Desktop\sql.PNG)
