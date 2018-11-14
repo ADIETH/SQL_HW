@@ -1,6 +1,6 @@
 # SQL_HW
 
-![sql](Images/sql.jpg)
+
 Instructions
 
 
@@ -25,6 +25,9 @@ Hint: https://dev.mysql.com/doc/refman/5.7/en/show-create-table.html
 
 
 6a. Use JOIN to display the first and last names, as well as the address, of each staff member. Use the tables staff and address:
+
+![sql](Images/sql.jpg)
+
 6b. Use JOIN to display the total amount rung up by each staff member in August of 2005. Use tables staff and payment.
 6c. List each film and the number of actors who are listed for that film. Use tables film_actor and film. Use inner join.
 6d. How many copies of the film Hunchback Impossible exist in the inventory system?
